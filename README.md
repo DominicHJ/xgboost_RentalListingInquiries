@@ -9,7 +9,8 @@
 - 弱学习器数目重新调整  
 - 行列重采样参数调整  
 - 调用模型进行测试  
-- 生成测试结果文件  
+- 生成测试结果文件   
+![](n_estimators.png 'n_estimators')     
   
 ### 2 数据集介绍  
 #### Kaggle2017——Rental Listing Inquiries     
